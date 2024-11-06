@@ -5,7 +5,7 @@
 
 This project aims to build a machine learning model that predicts the demand for products, such as potatoes, by analyzing various factors that influence sales. Using time series forecasting techniques, the model provides insights into future demand, helping companies manage inventory, plan for seasonal changes, and respond to market trends effectively.
 
-## Models and Techniques
+## Models and Techniques (Final Model types TBD)
 
 - **Time Series Analysis**
 - **ARIMA (AutoRegressive Integrated Moving Average)**
@@ -24,22 +24,20 @@ A link to the dataset used for this project is available [here](insert-dataset-l
 
 ## 10-Day Plan
 
-1. **Days 1-2**: Data Collection and Cleaning  
+1. **Days 1-4**: Data Collection and Cleaning & EDA  
    - Gather and preprocess the dataset, handling any missing values or inconsistencies.
-   
-2. **Days 3-4**: Exploratory Data Analysis (EDA)  
    - Explore and visualize the dataset to understand trends, seasonality, and key features that impact demand.
-
-3. **Days 5-6**: Model Selection and Baseline Forecasting  
+   
+2. **Days 5-6**: Model Selection and Baseline Forecasting  
    - Experiment with various forecasting models to establish a baseline performance.
 
-4. **Days 7-8**: Model Tuning and Evaluation  
+3. **Days 7-8**: Model Tuning and Evaluation  
    - Fine-tune the selected models to optimize accuracy and assess performance against the baseline.
 
-5. **Day 9**: Comparative Analysis of Models  
+4. **Day 9**: Comparative Analysis of Models  
    - Compare the performance of different models to identify the best approach for forecasting.
 
-6. **Day 10**: Documentation and Final Report  
+5. **Day 10**: Documentation and Final Report  
    - Document findings, prepare visualizations, and summarize insights in a report.
 
 ---
