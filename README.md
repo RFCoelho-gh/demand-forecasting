@@ -20,7 +20,7 @@ The goal is to predict the quantity of a given product that a company will sell,
 
 ## Dataset
 
-A link to the dataset used for this project is available [here](insert-dataset-link).
+A link to the dataset used for this project is available [here]([insert-dataset-link](https://www.kaggle.com/competitions/m5-forecasting-accuracy/discussion/438301)).
 
 ## 10-Day Plan
 
